@@ -140,9 +140,11 @@ nav, .header-bottom {
 /* FOOTER SECTION */
 
 footer {
-    width: 100%;
-    padding: 1.5rem 1rem;
+    width: 5%;
+    padding: 1rem 1rem;
     text-align: center;
+    font-size: 14px;
+    opacity: 15%;
 }
 
 @media only screen and (max-width: 950px){
